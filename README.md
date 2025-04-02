@@ -55,7 +55,3 @@ If you use our work, please cite our paper as:
     url={https://openreview.net/forum?id=bppVexkY5N}
 }
 ```
-
-```python
-
-```
